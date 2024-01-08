@@ -11,6 +11,7 @@ namespace OopsPractice
             myClass.DisplayMyValue();
             MyClass myClass2 = new MyClass(10);
             myClass2.DisplayMyValue();
+            myClass2.DisplayMyValue();
             Console.ReadKey();
 
         }
