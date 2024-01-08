@@ -19,6 +19,7 @@ namespace OopsPractice.Inheritance
         static B()
         {
             Console.WriteLine("Static class constructor");
+            Console.WriteLine("Static class2  constructor");
         }
 
         public static void Display()
