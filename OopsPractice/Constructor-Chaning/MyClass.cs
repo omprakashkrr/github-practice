@@ -21,6 +21,7 @@ namespace OopsPractice.Constructor_Chaning
         public void DisplayMyValue()
         {
             Console.WriteLine($"My Value is:{MyValue}");
+            Console.WriteLine($"My Value is:{MyValue}");
         }
     }
 
